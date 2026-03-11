@@ -35,3 +35,6 @@ build/
 
 
 # Pastas para exclusão
+.mvn
+/etc/credentials
+.mvn/wrapper
