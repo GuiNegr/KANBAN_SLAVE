@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: bot_muito_foda
+    telegramApiKey: etc/credentials/apikey
